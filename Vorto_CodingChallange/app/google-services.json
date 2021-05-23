@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162577046284",
+    "firebase_url": "https://bearshop-e9845.firebaseio.com",
+    "project_id": "bearshop-e9845",
+    "storage_bucket": "bearshop-e9845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577046284:android:c1fac96c184830a1374729",
+        "android_client_info": {
+          "package_name": "com.codingassessment.vortoarul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577046284-hb6l5mkf9fr5ebdbhspa4q3v1a6tohnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingassessment.vortoarul",
+            "certificate_hash": "5eb79db057fee42c2ffa3b2208aa14731709f750"
+          }
+        },
+        {
+          "client_id": "162577046284-h6schomqq2fglivf3tjrh4h54t5u8cd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key":"AIzaSyBBNlGYvn6FditZ1et4nXHMcyHeLsY8YUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577046284-h6schomqq2fglivf3tjrh4h54t5u8cd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

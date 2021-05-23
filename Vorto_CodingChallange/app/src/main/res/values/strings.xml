@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vorto Coding</string>
+    <string name="search_hint">Search Business</string>
+    <string name="business_details">Business Detail</string>
+    <string name="valid_input">Enter a valid input</string>
+    <string name="google_maps_key">AIzaSyCiBUI6YY0d0fQ_IiSEhh_KfACjF6Bumc0</string>
+</resources>
